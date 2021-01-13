@@ -25,10 +25,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --heading-text-shadow: none;
   --heading-font-weight: 600;
   --heading1-text-shadow: none;
-  --heading1-size: 2.5em;
-  --heading2-size: 1.6em;
-  --heading3-size: 1.3em;
-  --heading4-size: 1em;
+  --heading1-size: 2.1em;
+  --heading2-size: 1.3em;
+  --heading3-size: 1.1em;
+  --heading4-size: .7em;
   --code-font: monospace;
   --link-color: #2a76dd;
   --link-color-hover: #6ca0e8;
@@ -41,7 +41,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 42px;
+  font-size: 32px;
   font-weight: normal;
   color: #222; }
 

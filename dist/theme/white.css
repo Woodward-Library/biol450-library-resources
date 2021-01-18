@@ -66,6 +66,16 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   font-weight: inherit; }
 
 /*********************************************
+ * Custom Section Style for web background
+ *********************************************/
+
+.dropHeading {
+  top: 60%; 
+  display: block;
+}
+
+
+/*********************************************
  * HEADERS
  *********************************************/
 .reveal h1,

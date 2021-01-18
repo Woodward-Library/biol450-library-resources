@@ -69,6 +69,14 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * Custom Section Style for web background
  *********************************************/
 
+.titleSlide h1,
+.titleSlide h2,
+.titleSlide h3,
+.titleSlide h4 {
+  margin:0 152px 0px 0;
+}
+
+
 .dropHeading section{
   display: block;
   margin:25%;

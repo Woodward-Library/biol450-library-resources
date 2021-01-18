@@ -70,12 +70,21 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 
 .dropHeading section{
-  top: 600px; 
-  font-weight: bold;
-  font-size: 60px;
   display: block;
+  margin:40%;
+  margin-left:0px;
+  
 }
 
+.dropHeading h1,h2,h3,h4{
+  font-color:#ffffff;
+}
+
+.dropHeading span{
+   display:block; 
+   padding:5px; 
+   background:rgba(12, 35, 68, 0.5);
+}
 
 /*********************************************
  * HEADERS

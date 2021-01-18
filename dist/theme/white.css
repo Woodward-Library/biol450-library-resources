@@ -71,27 +71,27 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .dropHeading section{
   display: block;
-  margin:40%;
+  margin:25%;
   margin-left:0px;
 }
 
-.dropHeading h1,
-.dropHeading h2,
-.dropHeading h3,
-.dropHeading h4{
-  font-color:#ffffff;
-  font-size:155px;
+.dropHeading span h1,
+.dropHeading span h2,
+.dropHeading span h3,
+.dropHeading span h4{
+  color:#ffffff;
 }
 
-.dropHeading a{
-  font-color:#ffffff;
+.dropHeading span a{
+  color:#ffffff;
 }
 
 .dropHeading span{
    display:block; 
    padding:5px; 
-   background:rgba(12, 35, 68, 0.5);
+   background:rgba(12, 35, 68, 0.8);
 }
+
 
 /*********************************************
  * HEADERS

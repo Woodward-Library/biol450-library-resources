@@ -74,8 +74,12 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .titleSlide h3,
 .titleSlide h4 {
   margin:0 152px 0px 0;
+  color:#ffffff;
 }
 
+.titleSlide {
+  color:#ffffff;
+}
 
 .dropHeading section{
   display: block;
